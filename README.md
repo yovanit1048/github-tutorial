@@ -1,5 +1,11 @@
 # GitHub Tutorial
-
+step 1: Create a local git repository
+Step 2: Add a new file to the repo
+Step 3: Add a file to the staging environment
+Step 4: Create a commit
+Step 5: Create a new branch
+Step 6: Create a new repository on GitHub
+Step 7: Push a branch to GitHub
 _by <Yoavni>_
 
 ---
